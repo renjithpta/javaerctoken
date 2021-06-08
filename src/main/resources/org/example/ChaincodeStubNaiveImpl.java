@@ -23,8 +23,8 @@ import org.hyperledger.fabric.shim.ledger.QueryResultsIteratorWithMetadata;
 import com.google.protobuf.ByteString;
 import static java.nio.charset.StandardCharsets.UTF_8;
 
-/*
- * 
+/*@Created 08 Jun
+ * @description ChaincodeStub mock class
  * Class to maock Chaincode stub.
  * It mocks real class operations.
  * Helps to achieve real operation as usual class.

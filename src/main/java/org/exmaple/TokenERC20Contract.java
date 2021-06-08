@@ -4,6 +4,13 @@
 
 package org.exmaple;
 
+/**
+ * @author Renjith
+ * @created 08 June 2021
+ * @description :ERC20Token contract
+ * 
+ */
+
 import org.hyperledger.fabric.contract.Context;
 import org.hyperledger.fabric.contract.ContractInterface;
 import org.hyperledger.fabric.contract.annotation.*;

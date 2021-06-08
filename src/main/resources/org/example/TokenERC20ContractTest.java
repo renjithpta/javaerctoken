@@ -5,6 +5,15 @@
 package org.example;
 
 
+/*
+ * @author Renjith
+ * @created: 8 Jun 2021.
+ * @description : Unit test the erc20 operations.
+ * It uses ChaincodeStubNaiveImpl class to mock all the operations of ChaincodeStub.
+ * 
+ * 
+ */
+
 import org.hyperledger.fabric.contract.Context;
 
 import org.hyperledger.fabric.contract.ClientIdentity;
